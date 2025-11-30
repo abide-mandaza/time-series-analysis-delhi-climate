@@ -44,6 +44,9 @@ The analysis focuses on extracting meaningful insights from climate variables an
 ## Results
 The analysis highlights strong seasonal patterns in Delhi’s climate data and demonstrates how classical time series models can be applied to forecast temperature trends effectively.
 
+**Notebook:**  
+[Time Series Analysis Notebook](Time_Series_Analysis_for_Daily_Delhi_Climate.ipynb)
+
 ## Author
 **Abide Mandaza**  
 GitHub: https://github.com/abide-mandaza
